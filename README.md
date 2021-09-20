@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BelqisYasmien
+- 👀 I’m interested in GIS
+- 🌱 I’m currently learning about Web GIS
+- 📫 Reach me at https://www.linkedin.com/in/belqis-yasmien-b19686137/
